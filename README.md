@@ -6,6 +6,9 @@ Thanks!
 ## Image sources
 Artwork: https://www.pixiv.net/en/artworks/98963481
 
+## Source code?
+Source PSD and PNG is available above.
+
 ## Screenshots
 ### Splash screen
 ![Splash screen](Screenshots/UX71TEB5SH.png)
